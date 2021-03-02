@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  /*To set margin at the top corner */
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #f0f5f9;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #eaffd0;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 200px;
+  right: 10%;
+  top: 60px;
+}
+
+.mountain {
+  width: 800px;
+  position: relative;
+  bottom: 120px;
+}
+
+.skills-img {
+  width: 170px;
+}
+
+.man-img {
+  width: 200px;
+}
+
+.web-img {
+  width: 170px;
+}
+
+.algorithm-img {
+  width: 170px;
+}
+
+.email {
+  position: relative;
+  right: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-color: #D3D3D3;
+  width: 10%;
+}
+
+.aboutmepara {
+  display: inline-block;
+  width: 50%;
+}
