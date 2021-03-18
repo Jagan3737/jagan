@@ -124,16 +124,16 @@ a:hover {
   text-align: center;
 }
 
-.twitter {
+.github {
   color: #11999E;
   position: relative;
-  right: 10px;
+  left: 10px;
 }
 
 .linkedin {
   color: #11999E;
   position: relative;
-  left: 10px;
+  right: 10px;
 }
 
 .copyrights {
